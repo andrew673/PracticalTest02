@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.pdsd.myapplication;
+package ro.pub.cs.systems.pdsd.practicaltest02;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
